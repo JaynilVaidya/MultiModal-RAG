@@ -1,0 +1,11 @@
+transformers
+sentence-transformers
+langchain
+faiss-cpu
+datasets
+python-docx
+PyPDF2
+python-pptx
+Pillow
+together
+dotenv

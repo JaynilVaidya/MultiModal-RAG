@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.json
+*.index
+misc.py
+misc2.py
+simple_rag.py
+.env
+simsearch.py
+ocr.py
